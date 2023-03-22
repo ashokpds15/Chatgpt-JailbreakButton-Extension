@@ -1,7 +1,8 @@
-Jailbreak Button Prompt
+**Jailbreak Button Prompt**
+
 This extension is designed to simplify the process of sending jailbreak prompt messages to others. With just one click, users can send the jailbreak prompt message without having to manually copy and paste it.
 
-Installation
+**Installation**
 To install the Jailbreak Button Prompt, simply follow these steps:
 
 Download the extension as a zip file.
